@@ -1,5 +1,5 @@
 # server-status-shell
-A simple shell script to check current load and memory usage.
+A simple shell script to check current load and memory usage on a Ubuntu server.
 
 You can save this script to a file, for example server_status.sh, and make it executable by running the following command:
 ```
